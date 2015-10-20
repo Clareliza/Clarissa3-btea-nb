@@ -11,5 +11,9 @@ I like to know how is adapting the marine organisms to the environment change, p
 
 ![picture-of-something](http://www.oceanwestseafood.com/productsima/Water%20Geoduck%20-%20.JPG)
 
+
 ```
-blastn\
+blastn \
+-query data-file \
+-database fish \
+```
