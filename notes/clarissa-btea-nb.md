@@ -11,8 +11,16 @@ I like to know how is adapting the marine organisms to the environment change, p
 
 
 
+
 ```
 blastn \
 -query data-file \
 -database fish \
 ```
+<<<<<<< HEAD
+blastn \
+-query data-file \
+-database fish \
+```
+=======
+>>>>>>> origin/master
