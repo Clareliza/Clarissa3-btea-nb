@@ -20,7 +20,7 @@ In the oyster Crassostrea gigas, a successive hermaphrodite, Cg-Foxl2, an orthol
 
 ---
 This is the gene in Genbank:
-![picture-of-something](FoxL2Genbank.jpg)
+![picture-of-something](https://cloud.githubusercontent.com/assets/10599418/10682149/976f6d7c-78e6-11e5-9b67-b5f1e29d3640.JPG)
 
 This is a direct link to the page
 <http://www.ncbi.nlm.nih.gov/nuccore/FJ768956.1>
@@ -77,8 +77,8 @@ Here is the top hit for GeoDuck Female
 
 When I did a blastx (Olympia female) in Genbank I found:
 
-![picture-of-something](blast.jpg)
+![picture-of-something](https://cloud.githubusercontent.com/assets/10599418/10682148/976d744a-78e6-11e5-946c-c8da4522c21f.JPG)
 
 This is the protein information:
 
-![picture-of-something](Fox2Prot.jpg)
+![picture-of-something](https://cloud.githubusercontent.com/assets/10599418/10682147/976c6596-78e6-11e5-9edf-78b46083ddad.JPG)
