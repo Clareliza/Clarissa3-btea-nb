@@ -81,4 +81,4 @@ When I did a blastx (Olympia female) in Genbank I found:
 
 This is the protein information:
 
-![picture-of-something](https://cloud.githubusercontent.com/assets/10599418/10682147/976c6596-78e6-11e5-9edf-78b46083ddad.JPG)
+![picture-of-something] (https://cloud.githubusercontent.com/assets/10599418/10682147/976c6596-78e6-11e5-9edf-78b46083ddad.JPG)
